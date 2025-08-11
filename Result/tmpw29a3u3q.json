@@ -1,0 +1,474 @@
+{
+  "process": "ADGM Compliance Review",
+  "completeness": "Complete",
+  "issues": [
+    {
+      "type": "missing_clause",
+      "severity": "Medium",
+      "issue": "Missing governing law clause",
+      "suggestion": "Add governing law clause: 'This document shall be governed by and construed in accordance with the laws of the Abu Dhabi Global Market.'\n\nAlternative wording: This Agreement shall be governed by and construed in accordance with the laws of Abu Dhabi Global Market (ADGM).",
+      "section": "N/A",
+      "adgm_source": "ADGM Companies Regulations 2020, Art. 6",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "missing_clause",
+      "severity": "Medium",
+      "issue": "Missing jurisdiction clause",
+      "suggestion": "Add jurisdiction clause: 'The courts of the Abu Dhabi Global Market shall have exclusive jurisdiction to settle any dispute arising out of or in connection with this document.'\n\nAlternative wording: Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be subject to the exclusive jurisdiction of the courts of Abu Dhabi Global Market.",
+      "section": "N/A",
+      "adgm_source": "ADGM Companies Regulations 2020, Art. 6",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "missing_clause",
+      "severity": "Medium",
+      "issue": "Missing dispute resolution clause",
+      "suggestion": "Add dispute resolution clause: 'Any dispute arising out of or in connection with this document shall be resolved through arbitration in accordance with ADGM Arbitration Regulations.'\n\nAlternative wording: All disputes arising out of or in connection with this Agreement shall be finally settled under the Rules of Arbitration of the ADGM Arbitration Centre by one or more arbitrators appointed in accordance with the said Rules.",
+      "section": "N/A",
+      "adgm_source": "ADGM Arbitration Regulations 2015",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "missing_signatory",
+      "severity": "High",
+      "issue": "Missing signatory section or signature block",
+      "suggestion": "Add proper signature section with authorized signatories as per ADGM requirements",
+      "section": "N/A",
+      "adgm_source": "ADGM Companies Regulations 2020, Art. 12-13",
+      "alternative": "IN WITNESS WHEREOF, the Subscriber has executed these Articles of Association on the date first written above.\n\nName: [Full Name]\nPosition: [Director/Authorized Signatory]\nSignature: _________________\n\nWitness:\nName: [Full Name]\nSignature: _________________",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Full legal name as registered with ADGM]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: insert authorised persons name(s)} is/are, and each acting alone is, here",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "insert authorised persons name(s)} is/are, and each acting alone is, here",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Full legal name as registered with ADGM]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "[private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Complete registered address including ADGM building/floor/unit]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: [insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "[insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Full legal name as registered with ADGM]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: {insert company name}",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "{insert company name}",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Full legal name as registered with ADGM]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: {insert date}",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "{insert date}",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[DD/MM/YYYY format as per ADGM requirements]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "template_placeholder",
+      "severity": "Medium",
+      "issue": "Template placeholder found: {insert authorised persons name(s)}",
+      "suggestion": "Replace template placeholders with actual content before submission",
+      "section": "{insert authorised persons name(s)}",
+      "adgm_source": "ADGM Documentation Requirements",
+      "alternative": "[Full legal name as registered with ADGM]",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "Low",
+      "issue": "Excessive capitalization in text",
+      "suggestion": "Review and correct document formatting according to ADGM standards",
+      "section": "RESOLUTION",
+      "adgm_source": "ADGM Documentation Style Guide",
+      "alternative": "Use proper heading styles or bold formatting instead of all caps",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "Low",
+      "issue": "Excessive capitalization in text",
+      "suggestion": "Review and correct document formatting according to ADGM standards",
+      "section": "SHAREHOLDERS",
+      "adgm_source": "ADGM Documentation Style Guide",
+      "alternative": "Use proper heading styles or bold formatting instead of all caps",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "Low",
+      "issue": "Excessive capitalization in text",
+      "suggestion": "Review and correct document formatting according to ADGM standards",
+      "section": "AMENDMENTS",
+      "adgm_source": "ADGM Documentation Style Guide",
+      "alternative": "Use proper heading styles or bold formatting instead of all caps",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "Low",
+      "issue": "Excessive capitalization in text",
+      "suggestion": "Review and correct document formatting according to ADGM standards",
+      "section": "ASSOCIATION",
+      "adgm_source": "ADGM Documentation Style Guide",
+      "alternative": "Use proper heading styles or bold formatting instead of all caps",
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+    }
+  ],
+  "insights": [
+    {
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "type": "Articles of Association",
+      "insights": "Rule-based compliance analysis used due to AI failure.",
+      "flags": [
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing governing law clause",
+          "suggestion": "Add governing law clause: 'This document shall be governed by and construed in accordance with the laws of the Abu Dhabi Global Market.'\n\nAlternative wording: This Agreement shall be governed by and construed in accordance with the laws of Abu Dhabi Global Market (ADGM).",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 6",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing jurisdiction clause",
+          "suggestion": "Add jurisdiction clause: 'The courts of the Abu Dhabi Global Market shall have exclusive jurisdiction to settle any dispute arising out of or in connection with this document.'\n\nAlternative wording: Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be subject to the exclusive jurisdiction of the courts of Abu Dhabi Global Market.",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 6",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing dispute resolution clause",
+          "suggestion": "Add dispute resolution clause: 'Any dispute arising out of or in connection with this document shall be resolved through arbitration in accordance with ADGM Arbitration Regulations.'\n\nAlternative wording: All disputes arising out of or in connection with this Agreement shall be finally settled under the Rules of Arbitration of the ADGM Arbitration Centre by one or more arbitrators appointed in accordance with the said Rules.",
+          "section": "N/A",
+          "adgm_source": "ADGM Arbitration Regulations 2015",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "missing_signatory",
+          "severity": "High",
+          "issue": "Missing signatory section or signature block",
+          "suggestion": "Add proper signature section with authorized signatories as per ADGM requirements",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 12-13",
+          "alternative": "IN WITNESS WHEREOF, the Subscriber has executed these Articles of Association on the date first written above.\n\nName: [Full Name]\nPosition: [Director/Authorized Signatory]\nSignature: _________________\n\nWitness:\nName: [Full Name]\nSignature: _________________",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: insert authorised persons name(s)} is/are, and each acting alone is, here",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "insert authorised persons name(s)} is/are, and each acting alone is, here",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "[private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Complete registered address including ADGM building/floor/unit]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: [insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "[insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert company name}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert company name}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert date}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert date}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[DD/MM/YYYY format as per ADGM requirements]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert authorised persons name(s)}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert authorised persons name(s)}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "RESOLUTION",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "SHAREHOLDERS",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "AMENDMENTS",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "ASSOCIATION",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps",
+          "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+        }
+      ],
+      "compliance_score": 0,
+      "requirements": {},
+      "recommendations": [
+        "Rule-based recommendations only."
+      ]
+    }
+  ],
+  "files": [
+    {
+      "filename": "/private/var/folders/h9/4_fvys7515n3zcrv_ywndkg40000gn/T/gradio/5c8b6ad7013fcda98644d06229341a7e26e7abc89b6635f043818e35dd32ffe9/Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "detected_type": "Articles of Association",
+      "paragraph_count": 11,
+      "chunk_count": 1,
+      "preview": "RESOLUTION OF THE SHAREHOLDERS\n\nOF\n\n{insert company name}\n\nDATED\n\n{insert date}\n\nWe, being the shareholders of {insert Company Name], a [private company limited by shares/restricted scope company] organised and existing under the laws of Abu Dhabi Global Market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “Company”), hereby consent to the adoption of the following resolutions:\n\nAMENDMENTS TO THE ARTICLES OF ASSOCIATION:\n\nRESOLVED, that the draft articles of association annexed to this resolution be adopted as the articles of association of the Company in substitution for, and to the exclusion of, the Company’s existing articles of association.\n\nFURTHER RESOVED, that {insert authorised persons name(s)} is/are, and each acting alone is, hereby authorized to do and perform any and all such acts, including execution of any and all documents, as said person shall deem necessary or advisable, to carry out the purposes of the foregoing resolutions.\n\n_____________________________\t\t\t_________________________________\n\n[insert Shareholder’s name]\t\t\t\t\t[insert Shareholder’s name]",
+      "full_text": "RESOLUTION OF THE SHAREHOLDERS\n\nOF\n\n{insert company name}\n\nDATED\n\n{insert date}\n\nWe, being the shareholders of {insert Company Name], a [private company limited by shares/restricted scope company] organised and existing under the laws of Abu Dhabi Global Market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “Company”), hereby consent to the adoption of the following resolutions:\n\nAMENDMENTS TO THE ARTICLES OF ASSOCIATION:\n\nRESOLVED, that the draft articles of association annexed to this resolution be adopted as the articles of association of the Company in substitution for, and to the exclusion of, the Company’s existing articles of association.\n\nFURTHER RESOVED, that {insert authorised persons name(s)} is/are, and each acting alone is, hereby authorized to do and perform any and all such acts, including execution of any and all documents, as said person shall deem necessary or advisable, to carry out the purposes of the foregoing resolutions.\n\n_____________________________\t\t\t_________________________________\n\n[insert Shareholder’s name]\t\t\t\t\t[insert Shareholder’s name]",
+      "keyword_scores": {
+        "Articles of Association": 2,
+        "Memorandum of Association": 0,
+        "Incorporation Application Form": 0,
+        "UBO Declaration": 0,
+        "Board Resolution": 0,
+        "Register of Members and Directors": 0,
+        "Shareholder Resolution": 1,
+        "Employment Contract": 0,
+        "Data Protection Policy": 0,
+        "License Application Form": 0,
+        "Business Plan": 0,
+        "Financial Projections": 0,
+        "Change of Registered Address Notice": 0,
+        "Unknown": 0
+      },
+      "issues": [
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing governing law clause",
+          "suggestion": "Add governing law clause: 'This document shall be governed by and construed in accordance with the laws of the Abu Dhabi Global Market.'\n\nAlternative wording: This Agreement shall be governed by and construed in accordance with the laws of Abu Dhabi Global Market (ADGM).",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 6"
+        },
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing jurisdiction clause",
+          "suggestion": "Add jurisdiction clause: 'The courts of the Abu Dhabi Global Market shall have exclusive jurisdiction to settle any dispute arising out of or in connection with this document.'\n\nAlternative wording: Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be subject to the exclusive jurisdiction of the courts of Abu Dhabi Global Market.",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 6"
+        },
+        {
+          "type": "missing_clause",
+          "severity": "Medium",
+          "issue": "Missing dispute resolution clause",
+          "suggestion": "Add dispute resolution clause: 'Any dispute arising out of or in connection with this document shall be resolved through arbitration in accordance with ADGM Arbitration Regulations.'\n\nAlternative wording: All disputes arising out of or in connection with this Agreement shall be finally settled under the Rules of Arbitration of the ADGM Arbitration Centre by one or more arbitrators appointed in accordance with the said Rules.",
+          "section": "N/A",
+          "adgm_source": "ADGM Arbitration Regulations 2015"
+        },
+        {
+          "type": "missing_signatory",
+          "severity": "High",
+          "issue": "Missing signatory section or signature block",
+          "suggestion": "Add proper signature section with authorized signatories as per ADGM requirements",
+          "section": "N/A",
+          "adgm_source": "ADGM Companies Regulations 2020, Art. 12-13",
+          "alternative": "IN WITNESS WHEREOF, the Subscriber has executed these Articles of Association on the date first written above.\n\nName: [Full Name]\nPosition: [Director/Authorized Signatory]\nSignature: _________________\n\nWitness:\nName: [Full Name]\nSignature: _________________"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "insert company name], a [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “company”), here",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: insert authorised persons name(s)} is/are, and each acting alone is, here",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "insert authorised persons name(s)} is/are, and each acting alone is, here",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: [private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "[private company limited by shares/restricted scope company] organised and existing under the laws of abu dhabi global market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Complete registered address including ADGM building/floor/unit]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: [insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "[insert shareholder’s name]\t\t\t\t\t[insert shareholder’s name]",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert company name}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert company name}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert date}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert date}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[DD/MM/YYYY format as per ADGM requirements]"
+        },
+        {
+          "type": "template_placeholder",
+          "severity": "Medium",
+          "issue": "Template placeholder found: {insert authorised persons name(s)}",
+          "suggestion": "Replace template placeholders with actual content before submission",
+          "section": "{insert authorised persons name(s)}",
+          "adgm_source": "ADGM Documentation Requirements",
+          "alternative": "[Full legal name as registered with ADGM]"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "RESOLUTION",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "SHAREHOLDERS",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "AMENDMENTS",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps"
+        },
+        {
+          "type": "formatting_issue",
+          "severity": "Low",
+          "issue": "Excessive capitalization in text",
+          "suggestion": "Review and correct document formatting according to ADGM standards",
+          "section": "ASSOCIATION",
+          "adgm_source": "ADGM Documentation Style Guide",
+          "alternative": "Use proper heading styles or bold formatting instead of all caps"
+        }
+      ]
+    }
+  ]
+}
